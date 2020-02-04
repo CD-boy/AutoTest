@@ -2,3 +2,4 @@ this is a test
 i need to work hard 
 so that i can do angthing that i like
 这是需要合并的内容
+这是master上的内q容
